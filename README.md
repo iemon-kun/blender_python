@@ -2,6 +2,9 @@
 python_for_blender
 自作のblender用pythonファイルです。
 
+## LanguageSwitchermaster.py
+ショートカットキー(デフォルトはF19)で言語1と2をスイッチできるアドオンです。デフォルトは日本語と英語。
+
 ## lonly_node_cleaner
 アクティブなオブジェクトのすべてのマテリアル内にある入出力ともに接続がないノードを一括で削除します。
 
